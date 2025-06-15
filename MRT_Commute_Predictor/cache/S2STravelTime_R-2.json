@@ -1,0 +1,268 @@
+[
+    {
+        "LineNo": "R",
+        "LineID": "R",
+        "RouteID": "R-2",
+        "TrainType": 1,
+        "TravelTimes": [
+            {
+                "Sequence": 1,
+                "FromStationID": "R22",
+                "FromStationName": {
+                    "Zh_tw": "北投",
+                    "En": "Beitou"
+                },
+                "ToStationID": "R21",
+                "ToStationName": {
+                    "Zh_tw": "奇岩",
+                    "En": "Qiyan"
+                },
+                "RunTime": 91,
+                "StopTime": 0
+            },
+            {
+                "Sequence": 2,
+                "FromStationID": "R21",
+                "FromStationName": {
+                    "Zh_tw": "奇岩",
+                    "En": "Qiyan"
+                },
+                "ToStationID": "R20",
+                "ToStationName": {
+                    "Zh_tw": "唭哩岸",
+                    "En": "Qilian"
+                },
+                "RunTime": 75,
+                "StopTime": 23
+            },
+            {
+                "Sequence": 3,
+                "FromStationID": "R20",
+                "FromStationName": {
+                    "Zh_tw": "唭哩岸",
+                    "En": "Qilian"
+                },
+                "ToStationID": "R19",
+                "ToStationName": {
+                    "Zh_tw": "石牌",
+                    "En": "Shipai"
+                },
+                "RunTime": 103,
+                "StopTime": 24
+            },
+            {
+                "Sequence": 4,
+                "FromStationID": "R19",
+                "FromStationName": {
+                    "Zh_tw": "石牌",
+                    "En": "Shipai"
+                },
+                "ToStationID": "R18",
+                "ToStationName": {
+                    "Zh_tw": "明德",
+                    "En": "Mingde"
+                },
+                "RunTime": 63,
+                "StopTime": 26
+            },
+            {
+                "Sequence": 5,
+                "FromStationID": "R18",
+                "FromStationName": {
+                    "Zh_tw": "明德",
+                    "En": "Mingde"
+                },
+                "ToStationID": "R17",
+                "ToStationName": {
+                    "Zh_tw": "芝山",
+                    "En": "Zhishan"
+                },
+                "RunTime": 79,
+                "StopTime": 26
+            },
+            {
+                "Sequence": 6,
+                "FromStationID": "R17",
+                "FromStationName": {
+                    "Zh_tw": "芝山",
+                    "En": "Zhishan"
+                },
+                "ToStationID": "R16",
+                "ToStationName": {
+                    "Zh_tw": "士林",
+                    "En": "Shilin"
+                },
+                "RunTime": 94,
+                "StopTime": 26
+            },
+            {
+                "Sequence": 7,
+                "FromStationID": "R16",
+                "FromStationName": {
+                    "Zh_tw": "士林",
+                    "En": "Shilin"
+                },
+                "ToStationID": "R15",
+                "ToStationName": {
+                    "Zh_tw": "劍潭",
+                    "En": "Jiantan"
+                },
+                "RunTime": 95,
+                "StopTime": 26
+            },
+            {
+                "Sequence": 8,
+                "FromStationID": "R15",
+                "FromStationName": {
+                    "Zh_tw": "劍潭",
+                    "En": "Jiantan"
+                },
+                "ToStationID": "R14",
+                "ToStationName": {
+                    "Zh_tw": "圓山",
+                    "En": "Yuanshan"
+                },
+                "RunTime": 112,
+                "StopTime": 26
+            },
+            {
+                "Sequence": 9,
+                "FromStationID": "R14",
+                "FromStationName": {
+                    "Zh_tw": "圓山",
+                    "En": "Yuanshan"
+                },
+                "ToStationID": "R13",
+                "ToStationName": {
+                    "Zh_tw": "民權西路",
+                    "En": "Minquan W. Rd."
+                },
+                "RunTime": 88,
+                "StopTime": 26
+            },
+            {
+                "Sequence": 10,
+                "FromStationID": "R13",
+                "FromStationName": {
+                    "Zh_tw": "民權西路",
+                    "En": "Minquan W. Rd."
+                },
+                "ToStationID": "R12",
+                "ToStationName": {
+                    "Zh_tw": "雙連",
+                    "En": "Shuanglian"
+                },
+                "RunTime": 60,
+                "StopTime": 34
+            },
+            {
+                "Sequence": 11,
+                "FromStationID": "R12",
+                "FromStationName": {
+                    "Zh_tw": "雙連",
+                    "En": "Shuanglian"
+                },
+                "ToStationID": "R11",
+                "ToStationName": {
+                    "Zh_tw": "中山",
+                    "En": "Zhongshan"
+                },
+                "RunTime": 62,
+                "StopTime": 28
+            },
+            {
+                "Sequence": 12,
+                "FromStationID": "R11",
+                "FromStationName": {
+                    "Zh_tw": "中山",
+                    "En": "Zhongshan"
+                },
+                "ToStationID": "R10",
+                "ToStationName": {
+                    "Zh_tw": "台北車站",
+                    "En": "Taipei Main Station"
+                },
+                "RunTime": 68,
+                "StopTime": 28
+            },
+            {
+                "Sequence": 13,
+                "FromStationID": "R10",
+                "FromStationName": {
+                    "Zh_tw": "台北車站",
+                    "En": "Taipei Main Station"
+                },
+                "ToStationID": "R09",
+                "ToStationName": {
+                    "Zh_tw": "台大醫院",
+                    "En": "NTU Hospital"
+                },
+                "RunTime": 67,
+                "StopTime": 35
+            },
+            {
+                "Sequence": 14,
+                "FromStationID": "R09",
+                "FromStationName": {
+                    "Zh_tw": "台大醫院",
+                    "En": "NTU Hospital"
+                },
+                "ToStationID": "R08",
+                "ToStationName": {
+                    "Zh_tw": "中正紀念堂",
+                    "En": "Chiang Kai-Shek Memorial Hall"
+                },
+                "RunTime": 95,
+                "StopTime": 26
+            },
+            {
+                "Sequence": 15,
+                "FromStationID": "R08",
+                "FromStationName": {
+                    "Zh_tw": "中正紀念堂",
+                    "En": "Chiang Kai-Shek Memorial Hall"
+                },
+                "ToStationID": "R07",
+                "ToStationName": {
+                    "Zh_tw": "東門",
+                    "En": "Dongmen"
+                },
+                "RunTime": 175,
+                "StopTime": 30
+            },
+            {
+                "Sequence": 16,
+                "FromStationID": "R07",
+                "FromStationName": {
+                    "Zh_tw": "東門",
+                    "En": "Dongmen"
+                },
+                "ToStationID": "R06",
+                "ToStationName": {
+                    "Zh_tw": "大安森林公園",
+                    "En": "Daan Park"
+                },
+                "RunTime": 75,
+                "StopTime": 31
+            },
+            {
+                "Sequence": 17,
+                "FromStationID": "R06",
+                "FromStationName": {
+                    "Zh_tw": "大安森林公園",
+                    "En": "Daan Park"
+                },
+                "ToStationID": "R05",
+                "ToStationName": {
+                    "Zh_tw": "大安",
+                    "En": "Daan"
+                },
+                "RunTime": 74,
+                "StopTime": 25
+            }
+        ],
+        "SrcUpdateTime": "2020-01-31T14:00:00+08:00",
+        "UpdateTime": "2020-05-20T12:00:00+08:00",
+        "VersionID": 2
+    }
+]
